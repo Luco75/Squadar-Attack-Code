@@ -15,5 +15,7 @@ Soporte para 2 jugadores: el juego cuenta con una configuracion preestablecida p
 Los controles del juego pueden verse en el menu de opciones. Tambien allí puede configurarse el volumen del los efectos de sonido y la musica.
 
 NOTA: Todo el juego ocurre en una misma escena. Al perder, ganar, o regresar al menu principal desde el menu de pausa la escena se recarga y esto hace que se reinicie la configuracion del sonido. Mas adelante hare modificaciones para que esto para que esto no ocurra.
+Tambien ire añadiendo comentarios al codigo a medida que pueda.
+
 
 Espero que lo disfruten. Muchas Gracias!
