@@ -6,7 +6,7 @@ La idea de este juego es mostrar algunos de mis conocimientos de Unity y brindar
 
 Caracteristicas del juego:
 
-Objetivo: eliminar a las naves enemigas hasta que la barra de fuerzas llegue a 0. los enemigos son de 3 tipos y se van creando de manera aleatoria
+Objetivo: eliminar a las naves enemigas hasta que la barra de fuerzas llegue a 0. los enemigos son de 3 tipos y se van creando de manera aleatoria.
 
 Potenciadores: al destruirse, los enemigos pueden dar ciertos pontenciadoresque mejoran las caracteristicas de la nave (menor cadencia de disparo o mayor cantidad de balas) o dan ciertas ventajas (+ vidas o misiles).
 
